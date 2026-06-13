@@ -16,6 +16,5 @@ This app does not collect any personal information.
 - No data collected
 - No data sent to external servers
 - No third-party sharing
-- Notification permission is used only for timer alerts
-
+  
 최종 수정일 / Last updated: 2026. 06. 13.
