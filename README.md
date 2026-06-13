@@ -10,7 +10,6 @@
 - 수집하는 데이터: 없음
 - 외부 서버 전송: 없음
 - 제3자 공유: 없음
-- 알림 권한: 타이머 종료 알림 용도로만 사용
 
 This app does not collect any personal information.
 
